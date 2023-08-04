@@ -1,4 +1,4 @@
-## Apache Lucene
+## Apache Lucene 
 
 This module contains articles about Apache Lucene.
 
